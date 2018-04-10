@@ -12,7 +12,7 @@ The following libraries are used in the application.
 
 *[Composer](https://getcomposer.org/)*: Dependency Manager for PHP
 
-*[Docker](https://www.docker.com/): Docker is a software container platform.
+*[Docker](https://www.docker.com/)*: Docker is a software container platform.
 
 ## How to...
 
